@@ -18,3 +18,5 @@ suomitek-icon.svg
 suomitek-icon-white.svg
 
 https://www.wowthemes.net/mundana-jekyll-theme/
+
+https://github.com/wowthemesnet/mundana-theme-jekyll
