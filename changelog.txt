@@ -16,3 +16,5 @@ Error: Image static/img/suomitek-qrcode.svg used in docs/introduction/what-is-su
 suomitek-logo-white.svg
 suomitek-icon.svg
 suomitek-icon-white.svg
+
+https://www.wowthemes.net/mundana-jekyll-theme/
