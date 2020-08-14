@@ -1,4 +1,4 @@
-## ai.suomitek.com
+## suomitek.github.io
 
 [![Editor CI](https://github.com/suomitek/suomitek.github.io/workflows/Editor%20CI/badge.svg)](https://github.com/suomitek/suomitek.github.io/actions?query=workflow%3A%22Editor+CI%22)
 [![GitHub Pages CI](https://github.com/suomitek/suomitek.github.io/workflows/GitHub%20Pages%20CI/badge.svg)](https://github.com/suomitek/suomitek.github.io/actions?query=workflow%3A%22GitHub+Pages+CI%22)
@@ -7,7 +7,7 @@
 
 [Contributors List](https://github.com/suomitek/suomitek.github.io/wiki/Contributors)
 
-Suomitek AI Homepage: <https://ai.suomitek.com>
+Suomitek AI Homepage: <https://suomitek.github.io>
 
 ## How to post a blog
 

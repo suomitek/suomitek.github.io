@@ -1,12 +1,12 @@
 module.exports = {
   title: 'Suomitek',
   tagline: 'AI platform',
-  url: 'https://ai.suomitek.com',
+  url: 'https://suomitek.github.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   favicon: 'img/favicon.ico',
   organizationName: 'Suomitek',    // Usually your GitHub org/user name.
-  projectName: 'ai.suomitek.com',  // Usually your repo name.
+  projectName: 'suomitek.github.io',  // Usually your repo name.
   stylesheets: [
     '/css/gitter-sidecar.css',
   ],
@@ -19,8 +19,8 @@ module.exports = {
       title: '',
       logo: { alt: 'Suomitek Logo', src: 'img/suomitek-logo.svg' },
       items: [
-        { label: 'Announcement',    href: 'https://ai.suomitek.com/announcement/', position: 'right', target: '_self' },
-        { label: 'Blog',            href: 'https://ai.suomitek.com/blog/',         position: 'right', target: '_self' },
+        { label: 'Announcement',    href: 'https://suomitek.github.io/announcement/', position: 'right', target: '_self' },
+        { label: 'Blog',            href: 'https://suomitek.github.io/blog/',         position: 'right', target: '_self' },
         { label: 'Docs',            to:   'docs/',                                position: 'right', activeBasePath: 'docs' },
         { label: 'Getting Started', to:   'docs/getting-started',                 position: 'right' },
         { label: 'Tutorial',        to:   'docs/video-tutorial',                  position: 'right' },
@@ -52,7 +52,7 @@ module.exports = {
         {
           title: 'More',
           items: [
-            { label: 'Blog',      href: 'https://ai.suomitek.com/community/', target: '_self' },
+            { label: 'Blog',      href: 'https://suomitek.github.io/community/', target: '_self' },
             { label: 'Branding',  to:   'branding' },
             { label: 'Press',     to:   'press' },
             { label: 'GitHub',    href: 'https://github.com/suomitek/suomitek#readme' },
@@ -62,7 +62,7 @@ module.exports = {
       logo: {
         alt  : 'Suomitek Logo',
         src  : 'img/suomitek-logo.svg',
-        href : 'https://ai.suomitek.com/',
+        href : 'https://suomitek.github.io/',
       },
       copyright: `Copyright © 2016-${new Date().getFullYear()} Suomitek Contributors`,
     },
