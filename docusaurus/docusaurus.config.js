@@ -72,7 +72,7 @@ module.exports = {
       searchParameters : {},                                   // Optional (if provided by Algolia)
     },
     googleAnalytics: {
-      trackingID: '',
+      trackingID: 'UA-45269670-1',
     },
     prism: {
       additionalLanguages: [
