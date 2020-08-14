@@ -2,13 +2,8 @@ module.exports = {
   docs: {
     Introduction: [
       'introduction/README',
-      'introduction/multi-language',
-      'introduction/puppet',
       'introduction/concepts',
-      'introduction/motivations',
       'examples',
-      'examples2',
-      'introduction/alternatives',
     ],
     'Getting Started': [
       'getting-started',
@@ -19,27 +14,15 @@ module.exports = {
     ],
     Recipes: [
       'recipes/README',
-      'recipes/configure-suomitek',
-      'recipes/usage-with-typescript',
       'recipes/usage-with-docker',
-      'recipes/usage-with-heroku',
-      'recipes/using-plugin-with-suomitek',
-      'recipes/using-vorpal-with-suomitek',
-      'recipes/using-redux-with-suomitek',
     ],
     'API Reference': [
       'api/README',
       'api/suomitek',
-      'api/message',
-      'api/contact',
-      'api/room',
-      'api/room-invitation',
-      'api/friendship',
     ],
     FAQ: [
       'faq/README',
       'faq/general',
-      'faq/puppet',
       'faq/miscellaneous',
     ],
     Troubleshooting: [

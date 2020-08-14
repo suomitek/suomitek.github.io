@@ -2,4 +2,4 @@
 title: Video Tutorial
 ---
 
-[https://youtu.be/KO23WAlnPHg](https://youtu.be/KO23WAlnPHg)
+[https://github.com/suomitek/suomitek.github.io](https://github.com/suomitek/suomitek.github.io)
