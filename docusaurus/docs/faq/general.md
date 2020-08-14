@@ -17,4 +17,3 @@ title: 'Suomitek FAQ: General'
 ### I can not recoginize with picture
 
 ocr. Learn more at [https://github.com/suomitek/athena-ai-service/issues/1](https://github.com/suomitek/athena-ai-service/issues/1)
-

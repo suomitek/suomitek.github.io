@@ -8,7 +8,6 @@ title: Awesome Suomitek
 
 Learn more about Projects Using Suomitek at [Wiki:PoweredBySuomitek](https://github.com/suomitek/athena-ai-service/wiki/PoweredBySuomitek)
 
-
 ## Enterprise Usage
 
 > "太好用"  

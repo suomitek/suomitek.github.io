@@ -3,14 +3,14 @@ sidebar_label: Introduction Index
 title: Suomitek Introduction
 ---
 
-## What is Suomiteck
+## What is Suomitek
 
-[Suomiteck](https://github.com/suomitek/) 
+[Suomitek](https://github.com/suomitek/) 
 AI Platform
 [Linux](https://github.com/suomitek/athena-ai-service/actions),
 [Docker](https://github.com/suomitek/athena-ai-service/actions).
 
-You can use Suomiteck building a personal AI train platform.
+You can use Suomitek building a personal AI train platform.
 
 More Powerful Feature as follows:
 
