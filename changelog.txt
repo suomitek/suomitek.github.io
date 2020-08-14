@@ -1,3 +1,4 @@
+2020-08-14
 docusaurus/docs/awesome-suomitek.md: 11: MD012/no-multiple-blanks Multiple consecutive blank lines [Expected: 1; Actual: 2]
 docusaurus/docs/faq/general.md: 21: MD012/no-multiple-blanks Multiple consecutive blank lines [Expected: 1; Actual: 2]
 docusaurus/docs/introduction/concepts.md: 17: MD012/no-multiple-blanks Multiple consecutive blank lines [Expected: 1; Actual: 2]
