@@ -5,7 +5,7 @@ title: Suomitek Introduction
 
 ## What is Suomitek
 
-[Suomitek](https://github.com/suomitek/) 
+[Suomitek](https://github.com/suomitek/)
 AI Platform
 [Linux](https://github.com/suomitek/athena-ai-service/actions),
 [Docker](https://github.com/suomitek/athena-ai-service/actions).
