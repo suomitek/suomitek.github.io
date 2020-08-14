@@ -16,6 +16,7 @@
     "assets/css",
     "assets/images",
     "assets/developers/suomitek",
+    "changelog.txt",
     "tests/fixtures"
   ]
 }
