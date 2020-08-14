@@ -9,3 +9,10 @@ not ok 4 logo.png should not exceed the max limit: width: 1184, size: 1513184.
 not ok 6 logo.png should not exceed the max limit: width: 1184, size: 1513184.
 not ok 7 bio-photo.png should not exceed the max limit: width: 1184, size: 1513184.
 not ok 8 logo.png should not exceed the max limit: width: 1184, size: 1513184.
+
+Error: Image static/img/qrcode.svg used in docs/getting-started.md not found.
+Error: Image static/img/suomitek-logo.svg used in docs/introduction/README.md not found.
+Error: Image static/img/suomitek-qrcode.svg used in docs/introduction/what-is-suomitek.md not found.
+suomitek-logo-white.svg
+suomitek-icon.svg
+suomitek-icon-white.svg
