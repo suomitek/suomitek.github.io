@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2020-08-16T15:49:07+00:00</updated><id>/feed.xml</id><title type="html">Suomitek</title><subtitle>AI platform</subtitle><entry><title type="html">ocr（ocr）</title><link href="/2020/08/14/ocr/" rel="alternate" type="text/html" title="ocr（ocr）" /><published>2020-08-14T00:00:00+00:00</published><updated>2020-08-14T00:00:00+00:00</updated><id>/2020/08/14/ocr</id><content type="html" xml:base="/2020/08/14/ocr/">&lt;blockquote&gt;
+  &lt;p&gt;作者: &lt;a href=&quot;https://github.com/zhangchunsheng/&quot;&gt;PeterZhang&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/suomitek/athena-ai-service&quot;&gt;&lt;img src=&quot;https://img.shields.io/badge/Powered%20By-Suomitek-green.svg#align=left&amp;amp;display=inline&amp;amp;height=20&amp;amp;margin=%5Bobject%20Object%5D&amp;amp;originHeight=20&amp;amp;originWidth=132&amp;amp;status=done&amp;amp;style=none&amp;amp;width=132&quot; alt=&quot;Suomitek Badge&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;背景&quot;&gt;背景&lt;/h2&gt;
+
+&lt;p&gt;ocr&lt;/p&gt;
+
+&lt;h2 id=&quot;功能&quot;&gt;功能&lt;/h2&gt;
+
+&lt;p&gt;ocr&lt;/p&gt;
+
+&lt;h2 id=&quot;实现逻辑&quot;&gt;实现逻辑&lt;/h2&gt;
+
+&lt;p&gt;ocr&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;tensorflow&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;依赖&quot;&gt;依赖&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;tensorflow：tensorflow&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;实现过程&quot;&gt;实现过程&lt;/h2&gt;
+
+&lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;本地运行&quot;&gt;本地运行&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;克隆项目&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;div class=&quot;language-shell highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;安装依赖&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;div class=&quot;language-shell highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;启动项目&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;div class=&quot;language-shell highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;效果图&quot;&gt;效果图&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/2020/ocr/ocr.png&quot; alt=&quot;效果图&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;致谢&quot;&gt;致谢&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;感谢&lt;a href=&quot;https://suomitek.github.io&quot;&gt;Suomitek&lt;/a&gt;团队提供AI智能平台&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>一路向北</name></author><category term="project" /><category term="suomitek" /><summary type="html">作者: PeterZhang</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/2020/ocr/ocr.png" /><media:content medium="image" url="/assets/2020/ocr/ocr.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>

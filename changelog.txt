@@ -1,0 +1,22 @@
+2020-08-14
+docusaurus/docs/awesome-suomitek.md: 11: MD012/no-multiple-blanks Multiple consecutive blank lines [Expected: 1; Actual: 2]
+docusaurus/docs/faq/general.md: 21: MD012/no-multiple-blanks Multiple consecutive blank lines [Expected: 1; Actual: 2]
+docusaurus/docs/introduction/concepts.md: 17: MD012/no-multiple-blanks Multiple consecutive blank lines [Expected: 1; Actual: 2]
+docusaurus/docs/introduction/what-is-suomitek.md: 8: MD009/no-trailing-spaces Trailing spaces [Expected: 0 or 2; Actual: 1]
+
+not ok 3 ocr.png should not exceed the max limit: width: 2460, size: 199123.
+not ok 4 logo.png should not exceed the max limit: width: 1184, size: 1513184.
+not ok 6 logo.png should not exceed the max limit: width: 1184, size: 1513184.
+not ok 7 bio-photo.png should not exceed the max limit: width: 1184, size: 1513184.
+not ok 8 logo.png should not exceed the max limit: width: 1184, size: 1513184.
+
+Error: Image static/img/qrcode.svg used in docs/getting-started.md not found.
+Error: Image static/img/suomitek-logo.svg used in docs/introduction/README.md not found.
+Error: Image static/img/suomitek-qrcode.svg used in docs/introduction/what-is-suomitek.md not found.
+suomitek-logo-white.svg
+suomitek-icon.svg
+suomitek-icon-white.svg
+
+https://www.wowthemes.net/mundana-jekyll-theme/
+
+https://github.com/wowthemesnet/mundana-theme-jekyll
